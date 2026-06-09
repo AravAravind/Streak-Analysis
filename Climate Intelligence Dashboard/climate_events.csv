@@ -1,0 +1,51 @@
+event_id,date,year,month,region,event_type,severity_score,description,is_policy,is_extreme_weather,is_disaster
+CE001,2003-08-01,2003,8,Europe,heatwave,8,"European heatwave kills 70,000+",0,1,0
+CE002,2004-12-26,2004,12,Asia,tsunami,9,"Indian Ocean tsunami (227,000 deaths)",0,0,1
+CE003,2005-08-29,2005,8,USA,hurricane,9,"Hurricane Katrina (~1,800 deaths, $125B)",0,1,0
+CE004,2008-05-12,2008,5,China,earthquake,8,Sichuan earthquake,0,0,1
+CE005,2009-12-07,2009,12,global,policy,8,Copenhagen Climate Conference COP15,1,0,0
+CE006,2010-07-15,2010,7,Russia,heatwave_fire,8,Russian heatwave + wildfires,0,1,0
+CE007,2010-08-01,2010,8,Pakistan,flood,8,"Pakistan floods (2,000 deaths, $43B)",0,1,0
+CE008,2011-03-11,2011,3,Japan,tsunami,9,Tōhoku earthquake + Fukushima disaster,0,0,1
+CE009,2012-10-29,2012,10,USA,hurricane,8,Hurricane Sandy ($70B),0,1,0
+CE010,2013-11-08,2013,11,Philippines,typhoon,8,"Typhoon Haiyan (6,300 deaths)",0,1,0
+CE011,2015-04-25,2015,4,Nepal,earthquake,8,Nepal earthquake,0,0,1
+CE012,2015-12-12,2015,12,global,policy,10,Paris Agreement signed (COP21),1,0,0
+CE013,2016-04-15,2016,4,global,policy,7,Paris Agreement opens for signing,1,0,0
+CE014,2017-08-25,2017,8,USA,hurricane,8,Hurricane Harvey ($125B),0,1,0
+CE015,2017-09-06,2017,9,Caribbean,hurricane,8,Hurricane Irma,0,1,0
+CE016,2017-09-20,2017,9,Caribbean,hurricane,8,Hurricane Maria (Puerto Rico),0,1,0
+CE017,2018-07-23,2018,7,Greece,wildfire,6,Athens wildfires,0,1,0
+CE018,2018-11-08,2018,11,USA,wildfire,7,California Camp Fire (85 deaths),0,1,0
+CE019,2019-08-01,2019,8,Brazil,wildfire,7,Amazon wildfires,0,1,0
+CE020,2019-09-23,2019,9,global,policy,7,UN Climate Action Summit,1,0,0
+CE021,2019-12-15,2019,12,Australia,wildfire,8,Australian Black Summer bushfires,0,1,0
+CE022,2020-01-15,2020,1,Australia,wildfire,8,Black Summer continues,0,1,0
+CE023,2020-06-20,2020,6,Siberia,heat,8,Siberian heatwave (38°C in Verkhoyansk),0,1,0
+CE024,2020-11-01,2020,11,global,policy,7,US re-joins Paris (Biden announcement),1,0,0
+CE025,2021-02-15,2021,2,USA,winter_storm,7,Texas winter storm (Uri),0,1,0
+CE026,2021-06-26,2021,6,Canada,heat,8,Pacific Northwest heat dome (49.6°C),0,1,0
+CE027,2021-07-14,2021,7,Europe,flood,8,Western Europe floods (Germany/Belgium),0,1,0
+CE028,2021-11-12,2021,11,global,policy,8,COP26 Glasgow Climate Pact,1,0,0
+CE029,2022-03-15,2022,3,Antarctica,heat,7,Antarctic +40°C anomaly,0,1,0
+CE030,2022-06-15,2022,6,India,heat,7,India-Pakistan extreme heatwave,0,1,0
+CE031,2022-08-15,2022,8,Europe,drought,8,Worst European drought in 500 years,0,1,0
+CE032,2022-09-15,2022,9,Pakistan,flood,9,"Pakistan floods (1,700 deaths, $30B)",0,1,0
+CE033,2022-11-20,2022,11,global,policy,8,COP27 Loss & Damage fund agreement,1,0,0
+CE034,2023-02-06,2023,2,Turkey,earthquake,9,"Turkey-Syria earthquake (50,000+ deaths)",0,0,1
+CE035,2023-07-15,2023,7,global,temperature,9,Hottest month in recorded history,0,0,0
+CE036,2023-08-15,2023,8,Hawaii,wildfire,8,Lahaina wildfire (100 deaths),0,1,0
+CE037,2023-09-10,2023,9,Libya,flood,8,"Derna dam collapse (11,000+ deaths)",0,1,0
+CE038,2023-12-13,2023,12,global,policy,9,COP28 'transitioning away from fossil fuels',1,0,0
+CE039,2024-04-15,2024,4,UAE,flood,7,Dubai flooding from extreme rainfall,0,1,0
+CE040,2024-07-22,2024,7,global,temperature,9,Hottest day ever recorded (17.16°C),0,0,0
+CE041,2024-09-26,2024,9,USA,hurricane,8,Hurricane Helene ($100B+),0,1,0
+CE042,2024-10-29,2024,10,Spain,flood,8,Valencia floods (200+ deaths),0,1,0
+CE043,2024-11-22,2024,11,global,policy,7,COP29 Baku climate finance deal $300B/year,1,0,0
+CE044,2025-01-07,2025,1,USA,wildfire,9,Los Angeles wildfires ($250B+ damage),0,1,0
+CE045,2025-03-15,2025,3,global,policy,8,ICJ climate change advisory opinion,1,0,0
+CE046,2025-06-20,2025,6,Europe,heatwave,7,European heatwave 45°C+,0,1,0
+CE047,2025-09-15,2025,9,Atlantic,hurricane,8,Multiple major Atlantic hurricanes,0,1,0
+CE048,2025-11-15,2025,11,global,policy,8,COP30 Belém Brazil 'turn pledges into action',1,0,0
+CE049,2026-02-15,2026,2,Australia,flood,7,Queensland flooding,0,1,0
+CE050,2026-04-10,2026,4,global,temperature,7,1.5°C threshold consistently breached,0,0,0

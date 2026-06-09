@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "errors": [],
+  "row_count": 14322,
+  "country_count": 217,
+  "year_count": 66,
+  "min_year": 1960,
+  "max_year": 2025,
+  "duplicate_country_year_rows": 0,
+  "main_columns": [
+    "country_code",
+    "country_name",
+    "iso3",
+    "region",
+    "income_group",
+    "year",
+    "gdp_growth",
+    "inflation",
+    "unemployment",
+    "gdp_per_capita",
+    "population",
+    "food_production_index",
+    "cereal_yield",
+    "cereal_production_tonnes",
+    "agricultural_land_pct",
+    "dietary_energy_supply_adequacy",
+    "economic_stress_score",
+    "data_completeness_score"
+  ]
+}
